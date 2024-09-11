@@ -1,0 +1,2 @@
+# nuxt
+Only for test
